@@ -8,7 +8,7 @@ This project involves exploratory data analysis (EDA) on a pizza sales dataset u
 ![Sales Over Time]("https://github.com/Bhavya122/Pizza-Sales-Dashboard-/blob/main/Screenshot%20(327).png")
 
 ### Top Selling Pizzas
-![Top and Worst selling Pizza]("")
+![Top and Worst selling Pizza]("https://github.com/Bhavya122/Pizza-Sales-Dashboard-/blob/main/Screenshot%20(329).png")
 
 ## Summary
 - **Total Revenue**: $474.27K
