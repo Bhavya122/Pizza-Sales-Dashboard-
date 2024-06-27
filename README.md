@@ -20,6 +20,6 @@ This project involves exploratory data analysis (EDA) on a pizza sales dataset u
 2. Open it in Power BI Desktop to explore the interactive report.
 
 ## Data Source
-- The data used in this analysis is sourced from ["C:\Users\BHAVYA JAIN\Downloads\pizza_sales.csv"].
+- The data used in this analysis is sourced from ["https://github.com/Bhavya122/Pizza-Sales-Dashboard-/blob/main/pizza_sales.csv"].
 
 
